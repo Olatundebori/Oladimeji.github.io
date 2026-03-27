@@ -61,7 +61,7 @@ Streamlined reporting processes, reducing manual effort and improving accuracy.
 **Technology Used:** SQL Server
 
 
-Project 3
+# Project 3
 
 **Title:** SQL Data Definition & Manipulation – Employee Data Analysis
 
