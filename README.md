@@ -16,9 +16,9 @@
 
 
 # Project 2
-**Title:** 
+**Title:** [SQL Data Definition Language-Sales Data and Workplace Safety Data]
 
-**SQL Code**
+**SQL Code** [Sale Data and Workplace Safety Data](https://github.com/Olatundebori/Oladimeji.github.io/blob/main/Sales_Data.sql)
 
 
 **SQL Skills Used**
