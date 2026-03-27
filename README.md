@@ -5,9 +5,23 @@
 
 **Tools Used:** Microsoft Excel (Pivot Tables, Pivot Charts, Power Query Editor, Slicers, Conditional Formatting, VLOOKUP/XLOOKUP, Data Validation, Charts & Graphs, What-If Analysis)
 
-**Project Description:**
+**Project Description:** This project involved developing an interactive Superstore Sales Performance Dashboard using Microsoft Excel to analyse sales, profit, and customer segments across different regions and states. The dashboard integrates data cleaning, transformation, and visualisation techniques to provide a comprehensive view of business performance. It enables stakeholders to monitor key metrics, including total sales, profitability, regional performance, and discount impact, supporting strategic decision-making and operational efficiency.
 
-**Key Findings:**
+**Key Findings:** Regional Performance:
+The West ($725K) and East ($678K) regions generated the highest sales, indicating strong market presence.
+The South region recorded the lowest sales, suggesting potential growth opportunities.
+Category Insights:
+Technology was the most profitable category, generating the highest sales ($836K) and profit ($145K).
+Furniture had high sales but significantly low profit ($18K), indicating potential cost or pricing issues.
+Customer Segment Analysis:
+The Consumer segment contributed the largest share of sales ($1.16M) and profit ($134K).
+Home Office generated the least revenue, highlighting a smaller market segment.
+Discount Impact:
+High and medium discounts resulted in significant losses (-$76K and -$58K), negatively affecting profitability.
+No discount sales generated the highest profit ($320K), showing that excessive discounting reduces margins.
+State-Level Performance:
+California and New York were the top-performing states in both sales and profit.
+Some states showed moderate sales but lower profitability, indicating inefficiencies or higher operational costs.
 
 **Dashboard Overview:**
 
