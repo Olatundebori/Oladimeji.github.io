@@ -1,0 +1,47 @@
+
+--1	Write a query to fetch the EmpFname from the EmployeeInfo table in the upper case and use the ALIAS name as EmpName.
+
+SELECT [EmpFname] AS EMPNAME
+FROM [dbo].['Employee Info$']
+
+--2	Write a query to fetch the number of employees working in the department ‘HR’.
+
+SELECT*
+FROM [dbo].['Employee Info$']
+WHERE [Department] = 'HR'
+
+--3	Write a query to get the current date.
+SELECT GETDATE()
+
+--4	Write a query to retrieve the first four characters of  EmpLname from the EmployeeInfo table.
+SELECT LEFT([EmpLname], 4) AS FOUR_CHARACTERS
+FROM [dbo].['Employee Info$']
+
+--5	Write a query to fetch only the place name(string before brackets) from the Address column of EmployeeInfo table.
+SELECT 
+LEFT(Address, CHARINDEX('(', Address) - 1) AS PlaceName
+FROM [dbo].['Employee Info$']
+
+--6	Write a query to create a new table that consists of data and structure copied from the other table.
+SELECT *
+INTO NewEmployeeTable
+FROM [dbo].['Employee Info$']
+
+--7	Write q query to find all the employees whose salary is between 50000 to 100000.
+SELECT *
+FROM [dbo].['Employee position$']
+WHERE [Salary] BETWEEN 50000 AND 100000
+
+--8	Write a query to find the names of employees that begin with ‘S’
+SELECT *
+FROM [dbo].['Employee Info$']
+WHERE [EmpFname] LIKE 'S%'
+
+--9	Write a query to fetch top N records.
+SELECT TOP(5)*
+FROM [dbo].['Employee Info$']
+
+--10	Write a query to retrieve the EmpFname and EmpLname in a single column as “FullName”. The first name and the last name must be separated with space.
+SELECT
+[EmpFname] + '  ' + [EmpLname] AS FULL_NAME
+FROM [dbo].['Employee Info$']
