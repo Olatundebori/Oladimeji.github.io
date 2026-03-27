@@ -111,4 +111,4 @@ EV registrations show consistent growth trends with noticeable peaks in recent y
 
 **Dashboard Overview:**
 
-![EV](EV.png)
+![EV](Electric.png)
