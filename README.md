@@ -1,4 +1,5 @@
-# Oladimeji.github.io
+# Data Analytics Portfolio
+
 # Project 1
 **Title:** [Superstore Sales Performance Dashboard](https://github.com/Olatundebori/Oladimeji.github.io/blob/main/Sales%20Dashboard.xlsx) 
 
@@ -6,8 +7,25 @@
 
 **Project Description:**
 
-** Key Findings:**
+**Key Findings:**
 
 **Dashboard Overview:**
 
 ![Sales](Sales.png)
+
+
+
+# Project 2
+**Title:** 
+
+**SQL Code**
+
+
+**SQL Skills Used**
+
+
+**Project Description:**
+
+**Key Findings:**
+
+**Technology Used:** SQL Server
