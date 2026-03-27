@@ -90,3 +90,25 @@ Created new tables and fetched top N records, simulating real-world data handlin
 
 
 **Technology Used:** SQL Server
+
+# Project 4
+**Title:** [Electric Vehicle Distribution and Adoption Trends Dashboard](https://github.com/Olatundebori/Oladimeji.github.io/blob/main/EV%20Dashboard.pbix)
+
+**Tools Used:** Power BI (Data modeling, DAX, interactive dashboards, slicers, data visualisation, timeline analysis, trend analysis, segmentation, KPI tracking, and geographic analysis)
+
+**Project Description:** This project involved developing an interactive Power BI dashboard to analyze electric vehicle (EV) distribution and adoption trends in Washington State. The dashboard integrates data modelling and visualisation techniques to present key insights on EV growth, manufacturer dominance, regional distribution, and adoption patterns over time. It enables stakeholders to explore EV trends dynamically through filters such as vehicle type, model year, and location, supporting data-driven decisions in transportation planning and sustainability initiatives.
+
+**Key Findings:** REV Adoption Growth:
+EV adoption has increased significantly over recent years, with a sharp rise after 2020, indicating an accelerating transition toward sustainable transportation.
+Vehicle Type Distribution:
+Battery Electric Vehicles (BEVs) dominate the market (80%), showing stronger adoption compared to Plug-in Hybrid Electric Vehicles (PHEVs).
+Manufacturer Insights:
+Tesla leads significantly among EV manufacturers, outperforming competitors like Ford, Nissan, and Chevrolet.
+Geographical Distribution:
+King County has the highest concentration of EVs, followed by Snohomish and Pierce counties, highlighting urban dominance in EV adoption.
+Trend Analysis:
+EV registrations show consistent growth trends with noticeable peaks in recent years, reflecting increased awareness, policy support, and infrastructure development.
+
+**Dashboard Overview:**
+
+![EV](EV.png)
