@@ -98,7 +98,7 @@ Created new tables and fetched top N records, simulating real-world data handlin
 
 **Project Description:** This project involved developing an interactive Power BI dashboard to analyze electric vehicle (EV) distribution and adoption trends in Washington State. The dashboard integrates data modelling and visualisation techniques to present key insights on EV growth, manufacturer dominance, regional distribution, and adoption patterns over time. It enables stakeholders to explore EV trends dynamically through filters such as vehicle type, model year, and location, supporting data-driven decisions in transportation planning and sustainability initiatives.
 
-**Key Findings:** REV Adoption Growth:
+**Key Findings:** EV Adoption Growth:
 EV adoption has increased significantly over recent years, with a sharp rise after 2020, indicating an accelerating transition toward sustainable transportation.
 Vehicle Type Distribution:
 Battery Electric Vehicles (BEVs) dominate the market (80%), showing stronger adoption compared to Plug-in Hybrid Electric Vehicles (PHEVs).
