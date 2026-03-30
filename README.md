@@ -111,4 +111,29 @@ EV registrations show consistent growth trends with noticeable peaks in recent y
 
 **Dashboard Overview:**
 
-![EV](Electric.png)
+![EV](EVTYPE.png)
+
+# Project 5
+**Title:** [Global Life Expectancy Trends and Country Comparison Dashboard (1950–Present)](https://github.com/Olatundebori/Oladimeji.github.io/blob/main/Life%20expentancy.pbix)
+
+**Tools Used:** Power BI (Data modelling, DAX, KPI indicators, interactive dashboards, slicers, time-series analysis, geographic visualisation, trend analysis, comparative analysis)
+
+**Project Description:** This project involved designing and developing an interactive Power BI dashboard to analyse global life expectancy trends from 1950 to the present. The dashboard integrates historical and country-level data to provide insights into how life expectancy has evolved over time and across different regions.
+It enables users to explore patterns in global health outcomes through dynamic filters such as year and country. The dashboard presents key metrics, trends, and comparisons, helping users understand disparities, improvements, and global progress in life expectancy. This supports data-driven insights for research, policy-making, and global health evaluation.
+
+**Key Findings:** Global Improvement in Life Expectancy:
+Life expectancy has increased significantly over time, rising from lower averages in the mid-20th century to approximately 74 years globally, reflecting advancements in healthcare, nutrition, and living standards.
+Top Performing Countries:
+The highest life expectancy reaches around 86 years, with developed nations consistently leading due to strong healthcare systems and high living standards.
+Trend Analysis Over Time:
+The global trend shows a steady upward trajectory, with sharper growth observed in recent decades, highlighting rapid medical and technological progress.
+Country-Level Disparities:
+Significant variation exists between countries, with some regions still experiencing lower life expectancy due to economic, environmental, and healthcare challenges.
+Top 10 Country Comparisons:
+The dashboard highlights leading countries in life expectancy as well as those with notable improvements since 1950, showing both current leaders and emerging progress regions.
+Geographical Insights:
+The map visualisation reveals higher life expectancy in North America, Europe, and parts of Asia, while lower averages are observed in some African regions, indicating global inequality in health outcomes.
+
+**Dashboard Overview:**
+
+![Life](Expectancy.png)
